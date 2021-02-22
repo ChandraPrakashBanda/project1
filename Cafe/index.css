@@ -1,0 +1,23 @@
+.navbar{
+    background-color: orangered;
+    text-align: center;
+}
+body{
+    background-color: aqua;
+}
+.order{
+    position: absolute;
+    left:75%;
+}
+.Calculator{
+    position:absolute;
+    left:25%;
+    bottom: 5%;
+}
+.main{
+    position: absolute;
+    left:25%;
+}
+
+
+
